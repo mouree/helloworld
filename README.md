@@ -1,3 +1,3 @@
 # helloworld
 
-Hello world ενα νέο reposiory for testing
+Hello world ενα νέο repository for testing
